@@ -1,0 +1,5 @@
+解析IntelliJ IDEA的keymap文件，并按行打印到控制台上。
+可以把打印结果复制到Excel文件中进行进一步整理，最后打印到纸上，放在电脑边用于速查。
+测试过的IDEA版本：13.1.4
+IntelliJ IDEA的Keymap配置文件存放在以下目录：
+{IDEA安装目录}\lib\resources.jar\idea\Keymap_**.xml
